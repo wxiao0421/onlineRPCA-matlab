@@ -11,7 +11,7 @@ Robust PCA based on Principal Component Pursuit (**RPCA-PCP**) is the most popul
 
 where ||.||_* is a nuclear norm, ||.||_1 is L1-norm. 
 
-Please see the [paper](https://ieeexplore.ieee.org/abstract/document/8736886)[[arxiv](https://arxiv.org/abs/1702.05698)] for details.
+Please see the [paper](https://ieeexplore.ieee.org/abstract/document/8736886)[[arxiv version](https://arxiv.org/abs/1702.05698)] for details.
 
 ### What is inside?
 Folder **omwRPCA** contains various batch and online Robust PCA algorithms.
@@ -39,5 +39,5 @@ If you use this package in any way, please cite the following preprint.
 He Fan, Wei Xiao, Xiaolin Huang       
 
 ### Contacts
-Wei Xiao <wxiao0421@gmail.com> 
+Wei Xiao (<wxiao0421@gmail.com>) 
 
